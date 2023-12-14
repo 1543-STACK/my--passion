@@ -6,7 +6,16 @@
 }
 body {
   font-family: var(--default-font-family);
+  background: linear-gradient(
+    110.6deg,
+    rgb(179, 157, 219) 7%,
+    rgb(150, 159, 222) 47.7%,
+    rgb(24, 255, 255) 100.6%
+  );
+  background-size: cover;
+  background-repeat: no-repeat;
 }
+
 h1,
 h2,
 h3,
@@ -34,7 +43,7 @@ p {
 
 .hero {
   text-align: center;
-  background: var(--secondary-color);
+  background: blueviolet;
   padding: 160px 20px;
 }
 .hero p {
