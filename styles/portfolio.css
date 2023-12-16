@@ -66,7 +66,12 @@ hero h2 {
   line-height: 27px;
   color: white;
   padding: 15px 30px;
+  text-align: center;
 }
+.btn {
+  justify-content: center;
+}
+
 .btn-branding-ouline {
   color: var(--branding-color);
   border-radius: 4px;
@@ -111,4 +116,18 @@ hero h2 {
   background: var(--primary-color);
   box-shadow: var(--box-shadow);
   color: white;
+}
+ntent-container img {
+  border-radius: 10mm;
+  line-height: 1.5;
+  padding: 15px;
+}
+img-fluid {
+  max-width: 100%;
+  height: auto;
+}
+
+img,
+svg {
+  vertical-align: middle;
 }
