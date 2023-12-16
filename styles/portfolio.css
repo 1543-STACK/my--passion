@@ -90,7 +90,7 @@ hero h2 {
 }
 @media (max-width: 900px) {
   h1 {
-    font-size: 44px;
+    font-size: 30px;
     line-height: 2px;
   }
   h2 {
