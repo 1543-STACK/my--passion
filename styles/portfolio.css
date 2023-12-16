@@ -47,7 +47,7 @@ p {
   padding: 160px 20px;
 }
 .hero p {
-  font-size: 36px;
+  font-size: 26px;
   font-weight: bold;
   margin: 0;
   color: #272142;
@@ -70,7 +70,6 @@ hero h2 {
 }
 
 .btn {
-  display: inline-block;
   text-align: center;
   text-decoration: none;
   vertical-align: middle;
