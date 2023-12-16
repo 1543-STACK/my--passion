@@ -43,7 +43,7 @@ p {
 
 .hero {
   text-align: center;
-  background: blueviolet;
+  background: rgb(154, 205, 250);
   padding: 160px 20px;
 }
 .hero p {
@@ -68,8 +68,13 @@ hero h2 {
   padding: 15px 30px;
   text-align: center;
 }
+
 .btn {
-  justify-content: center;
+  display: inline-block;
+  text-align: center;
+  text-decoration: none;
+  vertical-align: middle;
+  cursor: pointer;
 }
 
 .btn-branding-ouline {
