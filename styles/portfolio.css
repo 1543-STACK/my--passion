@@ -38,7 +38,7 @@ h2 {
 p {
   font-weight: normal;
   font-size: 16px;
-  line-height: 30px;
+  line-height: 60px;
 }
 
 .hero {
@@ -67,13 +67,6 @@ hero h2 {
   color: white;
   padding: 15px 30px;
   border: 1px solid var(--branding-color);
-}
-
-.btn {
-  text-align: center;
-  text-decoration: none;
-  vertical-align: middle;
-  cursor: pointer;
 }
 
 .btn-branding-ouline {
@@ -106,7 +99,7 @@ hero h2 {
 }
 .navigation-links {
   display: flex;
-  margin-top: 40px;
+  margin-top: 20px;
   justify-content: center;
 }
 
