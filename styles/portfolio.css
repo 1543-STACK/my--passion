@@ -47,7 +47,7 @@ p {
   padding: 160px 20px;
 }
 .hero p {
-  font-size: 26px;
+  font-size: 36px;
   font-weight: bold;
   margin: 0;
   color: #272142;
@@ -60,13 +60,13 @@ hero h2 {
 }
 
 .btn-branding {
-  background-color: var(--branding-color);
+  color: var(--branding-color);
   border-radius: 4px;
   font-size: 18px;
   line-height: 27px;
-  color: white;
+
   padding: 15px 30px;
-  text-align: center;
+  border: 1px solid var(--branding-color);
 }
 
 .btn {
@@ -89,7 +89,7 @@ hero h2 {
 }
 @media (max-width: 900px) {
   h1 {
-    font-size: 30px;
+    font-size: 44px;
     line-height: 2px;
   }
   h2 {
