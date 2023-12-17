@@ -64,7 +64,7 @@ hero h2 {
   border-radius: 4px;
   font-size: 18px;
   line-height: 27px;
-
+  color: white;
   padding: 15px 30px;
   border: 1px solid var(--branding-color);
 }
@@ -81,7 +81,8 @@ hero h2 {
   border-radius: 4px;
   font-size: 18px;
   line-height: 27px;
-  border: 1px solid var(--branding-color) padding 15px 30px;
+  border: 1px solid var(--branding-color);
+  padding: 15px 30px;
 }
 
 .project-description {
@@ -121,7 +122,8 @@ hero h2 {
   box-shadow: var(--box-shadow);
   color: white;
 }
-ntent-container img {
+
+content-container img {
   border-radius: 10mm;
   line-height: 1.5;
   padding: 15px;
