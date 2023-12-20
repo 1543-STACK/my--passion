@@ -134,6 +134,7 @@ hero h2 {
   box-shadow: var(--box-shadow);
   color: white;
 }
+
 .content-container {
   padding: 60px 20px;
 }
