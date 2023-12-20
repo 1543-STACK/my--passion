@@ -134,6 +134,11 @@ hero h2 {
   box-shadow: var(--box-shadow);
   color: white;
 }
+.container-fluid {
+  height: 40px;
+}
+.logo {
+}
 
 .content-container {
   padding: 60px 20px;
