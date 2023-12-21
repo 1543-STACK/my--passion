@@ -34,6 +34,9 @@ h1 {
 h2 {
   font-size: 64px;
 }
+h4 {
+  font-size: 48px;
+}
 
 p {
   font-weight: normal;
@@ -99,6 +102,14 @@ hero h2 {
 .about-section-content {
   margin: 30px;
 }
+footer.content-box {
+  background: var(--secondary-color);
+  padding: 30x 120px;
+  border-radius: 10px;
+}
+footer.content-box p {
+  margin: 30px;
+}
 
 @media (max-width: 900px) {
   h1 {
@@ -107,6 +118,12 @@ hero h2 {
   }
   h2 {
     font-size: 44px;
+  }
+  h4 {
+    font-size: 18px;
+  }
+  footer.content-box {
+    padding: 20px;
   }
   .hero {
     padding: 80px 20px;
