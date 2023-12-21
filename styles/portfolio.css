@@ -113,7 +113,7 @@ p {
 }
 
 .project-desciption {
-  padding: 120px 60px;
+  padding: 0px 60px;
 }
 
 .logo {
@@ -211,6 +211,5 @@ footer .social-links a:hover {
 
   .project-desciption {
     padding: 0;
-    text-align: center;
   }
 }
