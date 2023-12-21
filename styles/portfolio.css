@@ -154,7 +154,8 @@ footer.content-box p {
 .container-fluid {
   height: 40px;
 }
-.logo {
+.img.logo {
+  font-size: 3px;
 }
 
 .content-container {
